@@ -11,6 +11,7 @@ namespace Q1
         static void Main(string[] args)
         {
             Console.WriteLine("Ali is a Good Boy");
+            Console.WriteLine("My name is Ali");
 
         }
     }
