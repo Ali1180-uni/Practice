@@ -10,7 +10,7 @@ namespace Q1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello talha ");
+            Console.WriteLine("Ali is a Good Boy");
 
         }
     }
